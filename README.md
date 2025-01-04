@@ -68,7 +68,7 @@ python object_detection.py
 
 ## Example Image
 
-The model detects and labels objects within an image, such as people, animals, or vehicles, depending on the pre-trained model's capabilities.
+The model detects an object using an image, such as people, animals, or vehicles, depending on the pre-trained model's capabilities.
 
 ## Notes
 
