@@ -1,6 +1,6 @@
 # Object Detection with MediaPipe
 
-This project demonstrates how to perform object detection using MediaPipe's **EfficientDet** model in a Python environment. The system detects objects in an image, visualizes bounding boxes around the detected objects, and displays the labels along with their confidence scores.
+This project demonstrates how to perform object detection using MediaPipe's **EfficientDet model** in a Python environment. The system detects objects in an image, visualizes bounding boxes around the detected objects, and displays the labels along with their confidence scores.
 
 ## Prerequisites
 
